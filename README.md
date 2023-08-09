@@ -52,10 +52,7 @@ Exemplo de código em c# no controller:
 
 
 
-Exemplo do código em jquery no cliente para fazer o upload:
 
-
- 
 
 
 
