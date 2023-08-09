@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "AlRNrTzzdh3Fjt50CsqegnecFkiAp50vl9kD3F3yfp4=",
+  "Source": "ExemploUploadApi",
+  "BasePath": "_content/ExemploUploadApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ExemploUploadApi\\wwwroot",
+      "Source": "ExemploUploadApi",
+      "ContentRoot": "C:\\Users\\escalabim\\Documents\\ExemploUploadApi\\ExemploUploadApi\\wwwroot\\",
+      "BasePath": "_content/ExemploUploadApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\escalabim\\Documents\\ExemploUploadApi\\ExemploUploadApi\\wwwroot\\galeria\\boleto_1(3).PDF_1f9f55c5-a.pdf",
+      "SourceId": "ExemploUploadApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\escalabim\\Documents\\ExemploUploadApi\\ExemploUploadApi\\wwwroot\\",
+      "BasePath": "_content/ExemploUploadApi",
+      "RelativePath": "galeria/boleto_1(3).PDF_1f9f55c5-a.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\galeria\\boleto_1(3).PDF_1f9f55c5-a.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\escalabim\\Documents\\ExemploUploadApi\\ExemploUploadApi\\wwwroot\\galeria\\DARM_0216719-5-10.pdf_19e8edde-b.pdf",
+      "SourceId": "ExemploUploadApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\escalabim\\Documents\\ExemploUploadApi\\ExemploUploadApi\\wwwroot\\",
+      "BasePath": "_content/ExemploUploadApi",
+      "RelativePath": "galeria/DARM_0216719-5-10.pdf_19e8edde-b.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\galeria\\DARM_0216719-5-10.pdf_19e8edde-b.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\escalabim\\Documents\\ExemploUploadApi\\ExemploUploadApi\\wwwroot\\galeria\\DIT.pdf_d466c271-6.pdf",
+      "SourceId": "ExemploUploadApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\escalabim\\Documents\\ExemploUploadApi\\ExemploUploadApi\\wwwroot\\",
+      "BasePath": "_content/ExemploUploadApi",
+      "RelativePath": "galeria/DIT.pdf_d466c271-6.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\galeria\\DIT.pdf_d466c271-6.pdf"
+    }
+  ]
+}
