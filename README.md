@@ -4,7 +4,7 @@ Projeto de exemplo para fazer upload de arquivos via webApi C#
 Aqui compartilho com vocês um projeto simples que criei para facilitar upload de arquivos em PDF via WebAPI .netCore 6.0
 Voce pode adaptar o código para fazer upload em outros formatos de arquivo, não se limitando a apenas PDF.
 
-Exemplo de código em c# no controller:
+Exemplo de código em c# no da api controller:
 
     [Route("api/[controller]")]
     [ApiController]
